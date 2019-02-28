@@ -9,6 +9,8 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
+#DEFINES+=VIDEO_RESCALE
+
 HEADERS += \
     AVInputStream.h \
     AVOutputStream.h \

@@ -10,8 +10,8 @@
 
 #include <map>
 
-#define AUDIO_INPUT_DEVICE	"hw:0,0"        //hw:0,0
-#define VIDEO_INPUT_DEVICE	"/dev/video0"   ///dev/video0
+#define AUDIO_INPUT_DEVICE    "hw:0,0"        //hw:0,0
+#define VIDEO_INPUT_DEVICE    "/dev/video0"   ///dev/video0
 
 extern "C"
 {
